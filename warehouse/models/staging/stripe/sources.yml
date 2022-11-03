@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: staging
+    database: warehouse-367323
+    tables:
+      - name: payments
